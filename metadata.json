@@ -1,0 +1,6 @@
+{
+  "name": "RubricPulse - Classroom Observation & Rubric Engine",
+  "description": "Transforms raw, unstructured classroom observations into standardized educational rubrics, targeted intervention plans, and formal student progress reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
